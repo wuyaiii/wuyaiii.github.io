@@ -31,6 +31,7 @@
 +java.util.HashSet
 +java.util.TreeMap
 +java.util.Arrays.ArrayList
++java.util.ArrayList
 
 # danknull needs this
 +java.util.WeakHashMap
@@ -52,5 +53,14 @@
 # Unsafe
 -java.lang.invoke.SerializedLambda
 
-# plugins
-+com.tuershen.nbtlibrary.data.LibraryInventory
+# Google
++com.google.common.collect.*
+
+# Bukkit
++org.bukkit.*
+
+# NBTLibrary
++com.tuershen.nbtlibrary.*
+
+# Trail
++com.minecreatr.trails.Trail
