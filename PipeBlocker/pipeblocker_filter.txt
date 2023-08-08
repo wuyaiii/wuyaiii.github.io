@@ -64,3 +64,6 @@
 
 # Trail
 +com.minecreatr.trails.Trail
+
+# pers
++pers.tuershen.*
