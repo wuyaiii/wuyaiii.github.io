@@ -68,4 +68,3 @@
 
 # pers
 +pers.tuershen.*
-+java.io.serialization
